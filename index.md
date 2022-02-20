@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Family Propertoes](/sample_page)
-<img src="images/Family Properties?raw=true"/>
+[Family Properties](/sample_page)
+<img src="images/Family Properties.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
