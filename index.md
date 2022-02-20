@@ -1,8 +1,8 @@
-## Portfolio
+# My Portfolio
 
 ---
 
-### My Projects 
+## My Projects 
 
 ### Family Properties
 <img src="images/Family Properties.png?raw=true"/>
