@@ -8,13 +8,13 @@
 <img src="images/Family Properties.png?raw=true"/>
 
 [Three Minute Thesis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Three Minute Thesis.png?raw=true"/>
 
 [SW Japan Island(/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Japan_Islands.png?raw=true"/>
 
 [Proposed Bypass](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/new bypass.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
