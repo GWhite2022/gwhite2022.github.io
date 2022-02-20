@@ -4,19 +4,20 @@
 
 ### Category Name 1 
 
-[Family Properties]
+Family Properties
 <img src="images/Family Properties.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Three Minute Thesis
+<img src="images/Three Minute Thesis.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Japan Islands
+<img src="Japan_Islands.png?raw=true"/>
 
 ---
-
+Proposed New Route 
+<img src="new bypass.png?raw=true"/>
 
 ---
 
