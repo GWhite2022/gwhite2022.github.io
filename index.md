@@ -23,7 +23,7 @@ found in southern Newport News, VA.
 <img src="images/Japan_Islands.png?raw=true"/>
 This map is one of the southwestern islands of Japan. This map shows the number of shapefiles dervied from surface features that can go into a project at my job. 
 
-===
+---
 
 ### Proposed Bypass
 <img src="images/new bypass.jpg?raw=true"/>
