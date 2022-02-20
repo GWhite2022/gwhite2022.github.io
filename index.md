@@ -17,7 +17,7 @@ Japan Islands
 
 ---
 Proposed New Route 
-<img src="new bypass.png?raw=true"/>
+<img src="new bypass.jpg?raw=true"/>
 
 ---
 
