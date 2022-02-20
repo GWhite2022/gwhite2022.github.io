@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Family Properties](/sample_page)
+[Family Properties]
 <img src="images/Family Properties.png?raw=true"/>
 
 ---
@@ -17,13 +17,6 @@
 
 ---
 
-### Category Name 2
-
-- [Family Properties](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
