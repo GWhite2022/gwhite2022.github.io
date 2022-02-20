@@ -4,26 +4,32 @@
 
 ### Category Name 1 
 
-Family Properties
-<img src="images/Family Properties.png?raw=true"/>
+[Family Properties](/sample_page)
+<img src="images/Famuly Properties.png?raw=true"/>
+
+[Three Minute Thesis](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[SW Japan Island(/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Proposed Bypass](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Three Minute Thesis
-<img src="images/Three Minute Thesis.png?raw=true"/>
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Japan Islands
-<img src="Japan_Islands.png?raw=true"/>
-
----
-Proposed New Route 
-<img src="new bypass.jpg?raw=true"/>
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+### Category Name 2
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
