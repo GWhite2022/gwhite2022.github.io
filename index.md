@@ -4,14 +4,14 @@
 
 ### Category Name 1 
 
-[Family Properties](/sample_page)
+Family Properties
 <img src="images/Family Properties.png?raw=true"/>
 
-[Three Minute Thesis](/sample_page)
+Three Minute Thesis
 <img src="images/Three Minute Thesis.png?raw=true"/>
 
-[SW Japan Island(/sample_page)
+SW Japan Island
 <img src="images/Japan_Islands.png?raw=true"/>
 
-[Proposed Bypass](/sample_page)
+Proposed Bypass
 <img src="images/new bypass.jpg?raw=true"/>
