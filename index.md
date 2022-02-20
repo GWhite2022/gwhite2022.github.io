@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Family Properties](/sample_page)
-<img src="images/Famuly Properties.png?raw=true"/>
+<img src="images/Family Properties.png?raw=true"/>
 
 [Three Minute Thesis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
