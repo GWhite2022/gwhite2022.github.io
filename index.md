@@ -30,4 +30,4 @@ This map is one of the southwestern islands of Japan. This map shows the number 
 This is from my capstone project for my Bachelor's Degree. The red route is a proposed bypass to reroute heavy traffic around the Northern Virginia and Washington D.C. area.
 
 ### Route to Work
-[![Route to Work]](https://arcg.is/1qXGDO)
+[Route to Work](https://arcg.is/1qXGDO)
