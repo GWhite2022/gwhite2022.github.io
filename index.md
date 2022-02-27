@@ -31,4 +31,5 @@ This is from my capstone project for my Bachelor's Degree. The red route is a pr
 
 ### Route to Work
 [Route to Work](https://arcg.is/1qXGDO)
+
 This is a map based on one of the first assignments given to me from my instructor in my GIS Fundamentals class. He wanted a map of my route to work with all of the major intersections. The route (line) and the intersections (points) were then digitized for the project.
