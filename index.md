@@ -33,3 +33,8 @@ This is from my capstone project for my Bachelor's Degree. The red route is a pr
 [Route to Work](https://arcg.is/1qXGDO)
 
 This is a map based on one of the first assignments given to me from my instructor in my GIS Fundamentals class. He wanted a map of my route to work with all of the major intersections. The route (line) and the intersections (points) were then digitized for the project.
+
+### Santa Rosa Fire
+[Santa Rosa Fire](https://gwhite2010_29.users.earthengine.app/view/santa-rosa-fire)
+
+This map was created in Google Earth Engine as a part of Fundamentals in Remote Sensing course I took for my Master's Degree. Its shows the land north of Santa Rosa before and after the major fire of 2018, using Short Wave Infrared Imagery (SWIR). dNBR, or Normalized Burn Ratio, can also be used to differentiate the areas of burned vegetation and normal vegetation.
